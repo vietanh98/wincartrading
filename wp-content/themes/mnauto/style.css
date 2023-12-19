@@ -1,0 +1,534 @@
+.vc_custom_1585150374325 {
+	margin-top: -20px !important
+}
+
+.vc_custom_1589691442093 {
+	margin-top: 20px !important;
+	padding-top: 15px !important;
+	padding-bottom: 30px !important;
+	background-color: #f7f7f7 !important
+}
+
+.vc_custom_1590081318788 {
+	margin-top: 0 !important;
+	padding-top: 10px !important;
+	padding-bottom: 20px !important
+}
+
+.vc_custom_1590076787984 {
+	margin-bottom: 10px !important;
+	padding-top: 20px !important
+}
+
+.vc_custom_1590078145859 {
+	margin-bottom: 20px !important
+}
+
+.vc_custom_1590078316513 {
+	margin-bottom: 10px !important;
+	padding-top: 20px !important
+}
+
+.vc_custom_1590078415999 {
+	margin-bottom: 10px !important;
+	padding-top: 20px !important
+}
+
+.vc_custom_1590080083253 {
+	margin-bottom: 10px !important;
+	padding-top: 20px !important
+}
+
+.vc_custom_1590080607500 {
+	margin-top: 20px !important
+}
+
+.vc_custom_1590080607500 {
+	margin-top: 20px !important
+}
+
+.vc_custom_1590081397966 {
+	margin-bottom: 10px !important;
+	padding-top: 20px !important
+}
+
+.vc_custom_1590081449147 {
+	margin-bottom: 10px !important;
+	padding-top: 20px !important
+}
+
+#header .logo,
+.side-header-narrow-bar-logo {
+	max-width: 200px
+}
+
+@media (min-width:1300px) {
+	#header .logo {
+		max-width: 200px
+	}
+}
+
+@media (max-width:991px) {
+	#header .logo {
+		max-width: 110px
+	}
+}
+
+@media (max-width:767px) {
+	#header .logo {
+		max-width: 110px
+	}
+}
+
+#header.sticky-header .logo {
+	max-width: 100px
+}
+
+.page-top .page-title-wrap {
+	line-height: 0
+}
+
+.page-top .page-title:not(.b-none):after {
+	content: '';
+	position: absolute;
+	width: 100%;
+	left: 0;
+	border-bottom: 3px solid #1c4ca0;
+	bottom: -30px
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-group .dhvc-form-add-on {
+	color: #7c7c7c
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-group .dhvc-form-control::-webkit-input-placeholder {
+	color: #7c7c7c
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-group .dhvc-form-control:-moz-placeholder {
+	color: #7c7c7c
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-group .dhvc-form-control::-moz-placeholder {
+	color: #7c7c7c
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-group .dhvc-form-control:-ms-input-placeholder {
+	color: #7c7c7c
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-group .dhvc-form-control:focus::-webkit-input-placeholder {
+	color: transparent
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-input input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-file input[type=text],
+#dhvcform-326.dhvc-form-flat .dhvc-form-captcha input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-select select,
+#dhvcform-326.dhvc-form-flat .dhvc-form-group .dhvc-form-add-on,
+#dhvcform-326.dhvc-form-flat .dhvc-form-file-button i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-select i {
+	height: 40px
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-select i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-file-button i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-group .dhvc-form-add-on {
+	line-height: 40px
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-input input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-file input[type=text],
+#dhvcform-326.dhvc-form-flat .dhvc-form-captcha input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-select select,
+#dhvcform-326.dhvc-form-flat .dhvc-form-radio i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-checkbox i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-textarea textarea {
+	background-color: #fff
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-input input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-file input[type=text],
+#dhvcform-326.dhvc-form-flat .dhvc-form-captcha input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-select select,
+#dhvcform-326.dhvc-form-flat .dhvc-form-textarea textarea {
+	color: #5b5b5b
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-input input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-file input[type=text],
+#dhvcform-326.dhvc-form-flat .dhvc-form-captcha input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-select select,
+#dhvcform-326.dhvc-form-flat .dhvc-form-radio i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-checkbox i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-textarea textarea {
+	border-width: 1px
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-input input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-captcha input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-file input[type=text],
+#dhvcform-326.dhvc-form-flat .dhvc-form-select select,
+#dhvcform-326.dhvc-form-flat .dhvc-form-textarea textarea,
+#dhvcform-326.dhvc-form-flat .dhvc-form-radio i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-checkbox i,
+#dhvcform-326.dhvc-form-flat .ui-slider {
+	border-color: #e5e5e5
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-input:hover input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-captcha:hover input,
+#dhvcform-326.dhvc-form-flat .dhvc-form-file:hover input[type=text],
+#dhvcform-326.dhvc-form-flat .dhvc-form-select:hover select,
+#dhvcform-326.dhvc-form-flat .dhvc-form-textarea:hover textarea,
+#dhvcform-326.dhvc-form-flat .dhvc-form-radio label:hover i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-checkbox label:hover i,
+#dhvcform-326.dhvc-form-flat .ui-slider-range {
+	border-color: #44aeff
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-input input:focus,
+#dhvcform-326.dhvc-form-flat .dhvc-form-captcha input:focus,
+#dhvcform-326.dhvc-form-flat .dhvc-form-file:hover input[type=text]:focus,
+#dhvcform-326.dhvc-form-flat .dhvc-form-select select:focus,
+#dhvcform-326.dhvc-form-flat .dhvc-form-textarea textarea:focus,
+#dhvcform-326.dhvc-form-flat .dhvc-form-radio input:checked+i,
+#dhvcform-326.dhvc-form-flat .dhvc-form-checkbox input:checked+i {
+	border-color: #44aeff
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-radio input+i:after {
+	background-color: #44aeff
+}
+
+#dhvcform-326.dhvc-form-flat .dhvc-form-checkbox input+i:after {
+	color: #44aeff
+}
+
+.dhvc-form-submit,
+.dhvc-form-submit:focus,
+.dhvc-form-submit:hover,
+.dhvc-form-submit:active {
+	height: 40px;
+	line-height: 40px
+}
+
+#dhvcform-326 .dhvc-form-submit,
+#dhvcform-326 .dhvc-form-submit:hover,
+#dhvcform-326 .dhvc-form-submit:active,
+#dhvcform-326 .dhvc-form-submit:focus,
+#dhvcform-326 .dhvc-form-file-button {
+	background: #1e73be
+}
+
+.tparrows:before {
+	color: #fe6603;
+	text-shadow: 0 0 3px #fff
+}
+
+.revslider-initialised .tp-loader {
+	z-index: 18
+}
+
+ul.products li.product-onimage .product-content {
+	position: absolute;
+	bottom: -41px !important;
+	padding: 10px 15px 0 !important;
+	opacity: 1 !important;
+	transition: all .3s;
+	background: rgba(255, 255, 255, .5) !important
+}
+
+ul.products li.product-onimage:hover .product-content {
+	bottom: 0 !important;
+	transition: all .3s;
+	background: rgba(255, 255, 255, .8) !important
+}
+
+ul.products li.product-onimage .add-links .button:not(:hover):not(:focus) {
+	background: #ffb333
+}
+
+ul.products li.product-onimage .add-links .button:hover {
+	background: #f6a61f;
+	color: #000
+}
+
+ul.products li.product-onimage .add-links {
+	margin: 0 -14px
+}
+
+#wpfomo {
+	background-color: #f9a71e;
+	bottom: -200px
+}
+
+.home #wpfomo,
+.page-id-415 #wpfomo,
+.page-id-415 .chat-mb,
+.page-id-415 .chat-dt,
+.page-id-415 .zalo-container {
+	display: none !important
+}
+
+.page-id-415 .main-content {
+	padding-bottom: 0
+}
+
+.edit-link,
+#wp-admin-bar-wp-logo,
+#wp-admin-bar-revslider,
+#wp-admin-bar-updates,
+#wp-admin-bar-new-content,
+#wp-admin-bar-wpseo-menu,
+#wp-admin-bar-litespeed-menu,
+#wp-admin-bar-customize,
+#wp-admin-bar-themes,
+.ab-sub-wrapper,
+#wp-admin-bar-porto,
+#wp-admin-bar-smart_slider_3,
+#wp-admin-bar-my-account,
+#wp-admin-bar-search {
+	display: none !important
+}
+
+.woocommerce-shipping-fields,
+#ship-to-different-address,
+.sorting_disabled {
+	display: none !important
+}
+
+body.yith-woocompare-popup #yith-woocompare {
+	padding: 0 0 !important;
+	margin: -10px 0 !important
+}
+
+.remove span {
+	font-size: 20px;
+	color: red
+}
+
+.single-product .product-summary-wrap .product-share {
+	display: block;
+	margin: 10px .5rem 0 0
+}
+
+a.compare.added {
+	display: inline-block;
+	background: #efefef;
+	padding: 5px 10px;
+	font-weight: 600;
+	border-radius: 5px;
+	border: solid 1px #8099c4;
+	text-decoration: none
+}
+
+a.compare.added:hover {
+	background: #fff
+}
+
+.wpcf7 input {
+	border: 1px solid #cfcbcbb0 !important
+}
+
+.wpcf7 input[type=text] {
+	width: 100%
+}
+
+.wpcf7 input:hover,
+.wpcf7 input:focus {
+	border: 1px solid #4281ef !important
+}
+
+.wpcf7 input[type=submit] {
+	display: block;
+	margin: auto
+}
+
+.wpcf7 label {
+	width: 100%
+}
+
+.name-contact, .email-contact, .phone-contact, .title-contact, .des-contact {
+	width: 100%
+}
+
+.wpcf7 input[type=date] {
+	width: 58.8%
+}
+
+.wpcf7 .wpcf7-mail-sent-ok {
+	text-align: center;
+	margin: -10px;
+	margin-top: -25px
+}
+
+span.wpcf7-not-valid-tip {
+	padding: 0 5px;
+	position: absolute;
+	right: 5px;
+	z-index: 99;
+	top: 13px;
+	background: #fff
+}
+
+div.wpcf7 .ajax-loader {
+	width: 117px !important;
+	height: 5px !important;
+	background-repeat: no-repeat !important;
+	display: block !important;
+	margin: 10px auto 0px !important;
+	background: url(wp-content/plugins/contact-form-7/images/ajax-loader.html) !important
+}
+
+.woocommerce-page.cart-v2 .card.shipping {
+	display: none
+}
+
+.alternative-font,
+a,
+.color-primary {
+	color: #086dab 
+}
+
+p {
+	font-family: Roboto;
+	line-height: 21px;
+	letter-spacing: 0px;
+	font-weight: 400;
+	color: #353535;
+	font-size: 15px
+}
+
+#footer,
+#footer p {
+	font-family: Roboto;
+	line-height: 20px;
+	letter-spacing: 0px;
+	font-weight: 400;
+	font-size: 15px
+}
+
+#footer h1,
+#footer h2,
+#footer h3,
+#footer h4,
+#footer h5,
+#footer h6,
+#footer .widget-title,
+#footer .widget-title a,
+.footer-top .widget-title {
+	font-family: Roboto;
+	letter-spacing: 0px;
+	font-weight: 500
+}
+
+.header-wrapper {
+	background-color: #fff
+}
+
+#header .header-main {
+	background-color: #fff
+}
+
+#header .header-top,
+.header-top .top-links>li.menu-item:after {
+	color: #fff
+}
+
+.page-top {
+	background-color: #666;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: scroll;
+	background-position: left center;
+	background-image: url('wp-content/uploads/2020/05/bg-car-min.jpg')
+}
+
+#footer {
+	background-color: #e5e5e5
+}
+
+#footer .footer-main {
+	background-color: #e5e5e5
+}
+
+#footer .widget.contact-info .contact-details strong {
+	color: #2d2d2d
+}
+
+#footer .footer-bottom {
+	background-color: #9b9b9b
+}
+
+#footer .footer-bottom,
+#footer .footer-bottom p,
+#footer .footer-bottom .widget>div>ul li,
+#footer .footer-bottom .widget>ul li {
+	color: #fff
+}
+
+#mini-cart .cart-subtotal,
+#mini-cart .minicart-icon {
+	color: #fe6603
+}
+
+.wpb_animate_when_almost_visible {
+	opacity: 1
+}
+
+.mega-menu ul {
+	text-align: left;
+	background: 0 0;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.mega-menu ul li {
+	float: left;
+	position: relative;
+	display: block;
+}
+
+.mega-menu ul li a {
+	
+	line-height: 24px;
+	letter-spacing: 0px;
+	font-family: Roboto, sans-serif;
+	font-weight: 600 !important;
+	padding: 10px 15px !important;
+	text-transform: uppercase;
+	display: inline-block;
+}
+
+.mega-menu li.page_item_has_children>ul{
+	position: absolute;
+	z-index: 9999;
+	left: -25px;
+	top: 100%;
+	margin: 0;
+	padding: 5px 15px;
+	transform-origin: 0 0;
+	-webkit-transform-origin: 0 0 0;
+	-moz-transform-origin: 0 0 0;
+	-ms-transform-origin: 0 0 0;
+	width: 230px;
+	display: none;
+}
+.mega-menu li.page_item_has_children:hover >.children {
+	z-index: 99993;
+	display: block;
+}
+
+.mega-menu li.page_item_has_children>ul li{
+	width:100%;
+}
+.mega-menu .narrow li.menu-item>a{
+	background-color: #ffff;
+	color: #13257f!important;
+	border: 1px solid #dadada;
+	border-radius: 3px;
+}
+
+
