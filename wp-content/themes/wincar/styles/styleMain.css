@@ -160,6 +160,14 @@
     }
 }
 
+@font-face {
+    font-family: 'awb-icons;';
+    src: url('../includes/lib/assets/fonts/icomoon/awb-icons.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+
 img.wp-smiley,
 img.emoji {
     display: inline !important;
@@ -1421,3 +1429,4 @@ body .is-layout-grid>* {
 :root {
     --wpr-bg-5c448b83-e6c6-4aba-88f5-f75bba4ad1d8: url(https://wincartrading.com.vn/wp-content/plugins/fusion-builder/assets/images/iLightbox/metro-white-skin/arrows_horizontal.png)
 }
+
