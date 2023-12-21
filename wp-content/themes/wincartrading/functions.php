@@ -29,4 +29,14 @@ function my_theme_widgets_init() {
   ) );
 }
 add_action( 'widgets_init', 'my_theme_widgets_init' );
+
+
+function enqueue_custom_styles() {
+  // Đường dẫn đến file CSS trong theme của bạn
+  $css_url = get_template_directory_uri() . '/styles/main.css';
+
+  // Thêm file CSS vào hàng đợi
+  wp_enqueue_style('custom-styles', $css_url);
+}
+
 ?>
